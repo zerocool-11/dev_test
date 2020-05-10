@@ -1,5 +1,5 @@
 <?php
 
-print 'hello this is my first website here!...........sdgfhg';
+print 'hello this is my first website here!.......  bit updated';
 
 ?>
