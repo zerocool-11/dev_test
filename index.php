@@ -1,5 +1,5 @@
 <?php
 
-print 'ok file updated';
+print 'new updated';
 
 ?>
