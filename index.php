@@ -1,5 +1,5 @@
 <?php
 
-ppppprint 'dfddf';
+print 'hello fixed';
 
 ?>
